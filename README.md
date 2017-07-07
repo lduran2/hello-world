@@ -1,8 +1,6 @@
 #!/usr/bin/env less
 # hello-world
 
-A test tutorial repository.
-
 Hi humans!
 
 Hubot here, I like Node.js and Covfefescript (that's of what I'm made!).
